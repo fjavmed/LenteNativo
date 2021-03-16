@@ -1,7 +1,6 @@
 <h1 align="center">Hola soy Francisco Medina</h1>
 <h3 align="center">Estoy aprendiendo programación</h3>
-
-- actualmente trabajo en [mi primera página] https://fjavmed.github.io/LenteNativo/
+- actualmente trabajo en [mi primera página](https://fjavmed.github.io/LenteNativo)
 
 - 📫 How to reach me **fjavmed@gmail.com**
 
